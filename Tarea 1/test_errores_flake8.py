@@ -1,6 +1,6 @@
 # La funcion retornar_numero tiene un condicional para cada número del
 # 0 al 99 donde si el parámetro coincide con el número este retorna el
-    #nombre del número en un string.
+# nombre del número en un string.
 """ Se agrega un error de sangría a la hora de colocar un comentario
     No se respeta el espaciado entre el # y la primera letra del comentario"""
 
@@ -8,7 +8,7 @@
 def retornar_numero(c):
 
     "No se respeta el espaciado entre el operador."
-    if c== 1:
+    if c == 1:
         f = "uno"
     elif c == 0:
         f = "cero"
